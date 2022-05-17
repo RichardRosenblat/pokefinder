@@ -1,0 +1,19 @@
+div {
+    margin-top: 10px;
+    text-align: center;
+}
+
+body {
+    background-color: #e0f0f3;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.padding {
+    padding-top: 30px;
+}
